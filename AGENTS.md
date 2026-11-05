@@ -14,6 +14,9 @@ Genai-factory is a collection of **end-to-end blueprints to deploy generative AI
 
 The repository is composed of multiple factories.
 Each factory is a folder. The only folders that are not factories are `.github`, `tests`, `tools`.
+`tools/omni-model-builder` is an eve workspace of Omni Analytics modeling
+agents (`explorer`, `builder`, `validator`); see
+[`tools/omni-model-builder/README.md`](./tools/omni-model-builder/README.md).
 
 ### Factory Index
 
