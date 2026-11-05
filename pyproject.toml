@@ -62,4 +62,4 @@ url = "https://pypi.org/simple"
 default = true
 
 [tool.codespell]
-skip = "*.yaml,*.yml,**/.terraform/**,**/.venv/**"
+skip = "*.yaml,*.yml,**/.terraform/**,**/.venv/**,**/node_modules/**,**/package-lock.json"
